@@ -1,0 +1,21 @@
+.img-fluid {
+    max-width: 3.5rem !important;
+}
+
+.jumbotron{
+    background-image: url(./../images/background.jpg);
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    
+}
+
+.tranparent{
+    width: 100em;
+    height: 100em;
+    background-color: black;
+    opacity: 0.7;
+}
